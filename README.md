@@ -12,3 +12,8 @@ head
 less
 ls
 cd
+
+pwd
+cd
+ls
+mkdir
